@@ -27,3 +27,6 @@ Used [this PyTorch tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_
 [PIL](https://pillow.readthedocs.io/en/stable/) - Displaying images
 
 [Matplotlib](https://matplotlib.org) - Displaying images
+
+# Output Images
+![](samples/5.png) ![](samples/1706.png) ![](samples/69.png) ![](samples/48.png)
