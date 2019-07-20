@@ -21,6 +21,9 @@ Used [this PyTorch tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_
 # Dependencies
 
 [PyTorch](https://pytorch.org) - Neural network training
+
 [Numpy](https://numpy.org) - Math
+
 [PIL](https://pillow.readthedocs.io/en/stable/) - Displaying images
+
 [Matplotlib](https://matplotlib.org) - Displaying images
